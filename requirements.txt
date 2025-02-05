@@ -1,0 +1,6 @@
+flask
+gunicorn
+pytesseract
+opencv-python
+requests
+matplotlib
