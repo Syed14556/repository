@@ -1,6 +1,6 @@
 flask
-gunicorn
-pytesseract
 opencv-python
+pytesseract
 requests
 matplotlib
+googlesearch-python
